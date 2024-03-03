@@ -114,12 +114,12 @@ class Developer: public Employee // Developer is a sub class or derived class an
         cout<<Name<<": Fixed the bug using :" << FavProgrammingLanguage <<endl; // Call the Programming Language
      }
 
-     /*
+    
       void Work() // Polymorphism
       {
         cout<<"\n"<<Name<< " is writing " <<FavProgrammingLanguage<< " code"<<endl;
       }
-    */
+
  
 };
 
